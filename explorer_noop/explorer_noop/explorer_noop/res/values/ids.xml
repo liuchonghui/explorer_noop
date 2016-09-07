@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- preview -->
+    <item name="battery_pbar" type="id"/>
+    <item name="item_container" type="id"/>
+    <item name="item1" type="id"/>
+    <item name="item2" type="id"/>
+    <item name="item3" type="id"/>
+    <item name="item4" type="id"/>
+    <item name="first_digital" type="id"/>
+    <item name="second_digital" type="id"/>
+    <item name="third_digital" type="id"/>
+    <item name="fouth_digital" type="id"/>
+    <item name="dot_digital" type="id"/>
+    <item name="current_date" type="id"/>
+
+    <item name="unlock_screen_battery_info_id" type="id"/>
+    <item name="unlock_screen_owner_info_id" type="id"/>
+</resources>

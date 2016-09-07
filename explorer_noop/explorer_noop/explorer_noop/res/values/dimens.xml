@@ -1,0 +1,19 @@
+<resources>
+    <dimen name="battery_progress_padding">26dp</dimen>
+    <dimen name="battery_progress_padding_bottom">40dp</dimen>
+
+    <dimen name="lock_screen_notification_time_margin_left">7dp</dimen>
+    <dimen name="lock_screen_digital_clock_left_margin">25dp</dimen>
+    <dimen name="lock_screen_digital_clock_item_padding">3.33dp</dimen>
+    <dimen name="lock_screen_wallpaper_preview_top_margin">26dp</dimen>
+    <dimen name="lock_screen_wallpaper_preview_right_margin">7dp</dimen>
+    <dimen name="miui_keyguard_digital_text_top_margin">18dp</dimen>
+    <dimen name="miui_common_unlock_screen_common_msg_text_size">15sp</dimen>
+    <dimen name="miui_unlock_owner_info_text_size">13sp</dimen>
+    <dimen name="miui_default_lock_screen_top_margin">35dp</dimen>
+    <dimen name="miui_default_lock_screen_right_margin">5dp</dimen>
+    <dimen name="secure_keyguard_fingerprint_hint_title_text_size">16sp</dimen>
+    <dimen name="secure_keyguard_fingerprint_hint_msg_text_size">12sp</dimen>
+    <dimen name="secure_keyguard_fingerprint_hint_title_top_margin">8dp</dimen>
+    <dimen name="secure_keyguard_fingerprint_hint_msg_top_margin">6dp</dimen>
+</resources>
